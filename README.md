@@ -30,7 +30,9 @@ In this experiment the plots show that the #61 material is slightly better than 
 So far it appears that the T240-61 core has the better performance so for the next couple tests I only used this core.
 ![Toroid size T240-61 with 10 turn per side](img/41_BAL_240-61_10T.png)
 Toroid size T240-61 with 10 turn per side
+
 ![Toroid size T240-61 with 11 turn per side](img/41_BAL_240-61_11T.png)
 Toroid size T240-61 with 11 turn per side
+
 ![Toroid size T240-61 with 12 turn per side](img/41_BAL_240-61_12T.png)
 Toroid size T240-61 with 12 turn per side

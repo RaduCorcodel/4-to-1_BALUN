@@ -17,5 +17,5 @@ Because of the large wire size, it is impractical to twist the wires so we only 
 ![Toroid size F140-43](img/4TO1_BALUN_F140-43.png)
 
 ### Material 61
-![Toroid size F140-61](img/4TO1_BALUN_F140-61T.png)
-![Toroid size F240-61](img/4TO1_BALUN_F240-61T.png)
+![Toroid size F140-61](img/4TO1_BALUN_140-61T.png)
+![Toroid size F240-61](img/4TO1_BALUN_240-61T.png)

@@ -28,6 +28,7 @@ In this experiment the plots show that the #61 material is slightly better than 
 
 ## Experimenting with different number of turns
 So far it appears that the T240-61 core has the better performance so for the next couple tests I only used this core. I used enameled copper wire with the thickness of 16AWG for all experiments.
+
 ![Toroid size T240-61 with 10 turn per side](img/41_BAL_240-61_10T.png)
 *Toroid size T240-61 with 10 turn per side*
 
@@ -37,7 +38,13 @@ So far it appears that the T240-61 core has the better performance so for the ne
 ![Toroid size T240-61 with 12 turn per side](img/41_BAL_240-61_12T.png)
 *Toroid size T240-61 with 12 turn per side*
 
-It appears that 10 turns of 
+It appears that 10 turns of 16AWG on a T240-61 toroid gives the best overall performance. In my practical application I only use 100W of RF power for which this core and wire gauge is way overkill but since it gives a slightly better performance, this is what I used in my field applications.
 
 ## *Nota Bene*
-The SWR that I'm reading corresponds to the same length of hookup wires from the terminals of the transformer to the SMA connector that goes to the Vector Network Analyzer. Your experiments might vary with different length of hookup wire
+The SWR that I'm reading corresponds to the same length of hookup wires from the terminals of the transformer to the SMA connector that goes to the Vector Network Analyzer. Your experiments might vary with different lengths of hookup wire.
+
+## Experimenting with Litz wire
+Blast from the past; Litz wire was used in the early days of radio for some assumed performance gains. Litz wire consists of dozens of very thin individually coated copper wires bunched together. Since RF travels only on the surface of the wire, this gives the overall cable much more surface area than monofillar wire. In time, this was disproven and regular single-core enameled copper wire became the norm for RF transformers. Nevertheless, I wanted to see if there are any measurable gains for using Litz wire.
+
+![Toroid size T240-61 with 10 turn per side](img/4TO1-BALUN-LITZFIN.png)
+*Toroid size T240-61 with 10 turn per side*

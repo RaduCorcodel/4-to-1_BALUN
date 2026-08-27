@@ -36,3 +36,9 @@ Toroid size T240-61 with 11 turn per side
 
 ![Toroid size T240-61 with 12 turn per side](img/41_BAL_240-61_12T.png)
 Toroid size T240-61 with 12 turn per side
+
+
+<figure>
+  <img src="{{site.url}}img/41_BAL_240-61_12T.png" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>

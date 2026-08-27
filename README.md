@@ -47,4 +47,11 @@ The SWR that I'm reading corresponds to the same length of hookup wires from the
 Blast from the past; Litz wire was used in the early days of radio for some assumed performance gains. Litz wire consists of dozens of very thin individually coated copper wires bunched together. Since RF travels only on the surface of the wire, this gives the overall cable much more surface area than monofillar wire. In time, this was disproven and regular single-core enameled copper wire became the norm for RF transformers. Nevertheless, I wanted to see if there are any measurable gains for using Litz wire.
 
 ![Toroid size T240-61 with 10 turn per side](img/4TO1-BALUN-LITZFIN.png)
-*Toroid size T240-61 with 10 turn per side*
+*Toroid size T240-61 with 10 turn Litz per side*
+
+Plot shows a slightly worse performance than single-core 16AWG enameled wire. But we're really splitting hairs here (pardon the pun). For practical reasons they are so close in performance that their practical application would be indistinguishable. Band conditions will be the determining factor, not the slight edge of one transformer over the other.
+
+## In conclusion
+We tested a few core sizes, wire size, wire wrapping style and specialized wire to give us an insight into how they might affect the performance of 4:1 BALUN transformers. The comparison can be further improved of course; I didn't have all combinations of cores sizes, materials, winding patterns and wire sizes. Nevertheless, this tests gives us some information about what to expect when winding a 4:1 BALUN. In my test, a T240-61 core and using 16AWG single-core enameled copper wire had a slightly better performance. But slightly! In reality, dare I say, any of these cores would've been undistinguishable, with the band conditions playing a much bigger role. 
+
+It was a fun experiment 

@@ -37,4 +37,5 @@ So far it appears that the T240-61 core has the better performance so for the ne
 ![Toroid size T240-61 with 12 turn per side](img/41_BAL_240-61_12T.png)
 *Toroid size T240-61 with 12 turn per side*
 
-
+## *Nota Bene*
+The SWR that I'm reading corresponds to the same length of hookup wires from the terminals of the transformer to the SMA connector that goes to the Vector Network Analyzer. Your experiments might vary with different length of hookup wire

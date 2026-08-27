@@ -3,7 +3,7 @@
 
 ## Experimenting with wiring style
 ### Core size T114
-![Core T114](img/IMG_7124.JPG)
+![Core T114](img/IMG_7124.jpg)
 
 ![Parallel turns](img/4TO1_BALUN_114-43T.png)
 *Core T114 with parallel turns*
@@ -12,7 +12,7 @@
 *Core T114 with twist-pair turns*
 
 ### Core size T140
-![Core T114](img/IMG_7122.JPG)
+![Core T114](img/IMG_7122.jpg)
 
 ![Parallel turns](img/4TO1_BALUN_F140-61.png) 
 *Core T140 with parallel turns*
@@ -22,7 +22,7 @@
 
 ### Core size T240
 Because of the large wire size, it is impractical to twist the wires so we only ran the test for parallel turns
-![Core T240](img/IMG_7125.JPG)
+![Core T240](img/IMG_7125.jpg)
 
 ![Parallel turns](img/4TO1_BALUN_240-61T.png)
 *Core T240 with parallel turns*
@@ -66,7 +66,7 @@ The SWR that I'm reading corresponds to the same length of hookup wires from the
 
 ## Experimenting with Litz wire
 Blast from the past; Litz wire was used in the early days of radio for some assumed performance gains. Litz wire consists of dozens of very thin individually coated copper wires bunched together. Since RF travels only on the surface of the wire, this gives the overall cable much more surface area than monofillar wire. In time, this was disproven and regular single-core enameled copper wire became the norm for RF transformers. Nevertheless, I wanted to see if there are any measurable gains for using Litz wire.
-![Core T240](img/IMG_7127.JPG)
+![Core T240](img/IMG_7127.jpg)
 
 ![Toroid size T240-61 with 10 turn per side](img/41_BAL_240-61_10T.png)
 *Toroid size T240-61 with 10 turn Litz per side*
@@ -78,6 +78,7 @@ We tested a few core sizes, wire size, wire wrapping style and specialized wire 
 
 It was a fun experiment and interesting to see that Litz wire, even though not really used anymore, can still have some interesting applications in ham radio. 
 
+![Core T240](img/IMG_7126.jpg)
 ![Core T240](img/IMG_7100.JPG)
 ![Core T240](img/IMG_7098.JPG)
 

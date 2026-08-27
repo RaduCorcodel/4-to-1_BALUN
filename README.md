@@ -1,7 +1,7 @@
 # Experiments with 4:1 BALUNs for Ham Radio
 I set off to make a few comparative tests between combinations of core size, core material, wire winding pattern and specialized wire to use in a 4:1 BALUN transformer for HF in the Ham Radio bands. The results are shown as return loss and impedance plot on a Smith chart, plotted on the same Vector Network Analyzer, in the same calibration session, within the span of a few hours. The results and a brief discussion is shown at the end of the page, along with a practical field implementation of the best performing transformer combination.
 
-## Experimenting with wiring style
+## Experimenting with different wiring styles
 ### Core size T114
 ![Core T114](img/IMG_7124.jpg)
 

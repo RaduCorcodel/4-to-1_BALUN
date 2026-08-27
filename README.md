@@ -35,7 +35,7 @@ Toroid size T240-61 with 10 turn per side
 Toroid size T240-61 with 11 turn per side
 
 ![Toroid size T240-61 with 12 turn per side](img/41_BAL_240-61_12T.png)
-Toroid size T240-61 with 12 turn per side
+*Toroid size T240-61 with 12 turn per side*
 
 
 <figure>

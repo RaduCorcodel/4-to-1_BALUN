@@ -65,7 +65,7 @@ It appears that 10 turns of 16AWG on a T240-61 toroid gives the best overall per
 The SWR that I'm reading corresponds to the same length of hookup wires from the terminals of the transformer to the SMA connector that goes to the Vector Network Analyzer. Your experiments might vary with different lengths of hookup wire.
 
 ## Experimenting with Litz wire
-Blast from the past; Litz wire was used in the early days of radio for some assumed performance gains. Litz wire consists of dozens of very thin individually coated copper wires bunched together. Since RF travels only on the surface of the wire, this gives the overall cable much more surface area than monofillar wire. In time, this was disproven and regular single-core enameled copper wire became the norm for RF transformers. Nevertheless, I wanted to see if there are any measurable gains for using Litz wire.
+Blast from the past; Litz wire was used in the early days of radio for some assumed performance gains. Litz wire consists of dozens of very thin individually coated copper wires bunched together. Since RF travels only on the surface of the wire, this gives the overall cable much more surface area than monofillar wire. In time, the supposed performance gains were disproven in practical situations, and regular single-core enameled copper wire became the norm for RF transformers. Nevertheless, I wanted to see if there are any measurable gains for using Litz wire.
 ![Core T240](img/IMG_7127.jpg)
 
 ![Toroid size T240-61 with 10 turn per side](img/41_BAL_240-61_10T.png)

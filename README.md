@@ -81,6 +81,7 @@ It was a fun experiment and interesting to see that Litz wire, even though not r
 
 ![Core T240](img/IMG_7126.jpg)
 ![Core T240](img/IMG_7100.JPG)
-![Core T240](img/IMG_7098.JPG)
+![Core T240](img/IMG_7098.JPG) 
+![Core T240](img/DELTALOOP-90DG-SS1.png)
 
 I ended up using the core with the Litz wire to make a self-contained 4:1 BALUN transformer to be used for Delta loop antennas and other loop antennas in this category. I fabricated the BALUN housing out of Rigid-10K photopolimerizing resin from Formlabs. This incredibly though material can withstand 10,000PSI making the housing virtually indestructible with usual field operations. For radiating elements, I used two stainless steel 17' telescopic whips from Chameleon antennas, and connected at the ends with a 25' 18AWG wire radiator. The resulting loop antenna is naturally resonant on 18-ish MHz which places it in the 17m amateur radio band. With the help of a tuner, I could get the radio and antenna tuned on every band from 40m to 6m, with an SWR no higher than 1.7:1. The 20m ham band seemed to be the hardest to tune (which had the 1.7:1); every other band were tuning 1.1:1 - 1.4:1.
